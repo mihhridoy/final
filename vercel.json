@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/blog/:path*/",
-      "destination": "https://yourwordpressblog.com/:path*/"
+      "destination": "https://www.birdzfly.com/:birdz*/"
     }
   ]
 }
